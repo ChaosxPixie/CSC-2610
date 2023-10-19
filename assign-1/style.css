@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #375e97;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 1px solid #375e97;
+}
+
+/* 
+Q: Change XXXXXXXX below to something appropriate to color the Skills h2 heading
+in brown color.
+You are not allowed to make any other changes.
+*/
+
+#skills {
+color: brown;
+}
+
+
+h2 {
+    /* 
+    Q: Did you notice that all h2 headings such as "my skills" are not using uppercase letters at all?
+    Fix this by adding ONLY 1 line below. 
+    After this fix, "my skills" should appear as "My Skills".
+    No changes should be made to HTML for this question.
+    */
+    font-size: 1.1em;
+    text-transform: capitalize; /*https://www.bing.com/search?pglt=169&q=css+to+make+first+letter+uppercase*/
+}
+/* 
+Q: Skills are very important. To highlight them, show them in red color.
+Change XXXXXXXX below to something appropriate to do this.
+You are not allowed to make any other changes.
+*/
+/*https://www.w3schools.com/css/css_combinators.asp*/
+#skills + ul li {
+color:red;
+}
+
+.job-title {
+    color: #999999;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+a:link, a:visited {
+    color: #fb6542;
+}
+
+td, th {
+    border: 1px solid #673838;
+    text-align: left;
+    padding: 8px;
+  }
+
+/* Q: Francisco and Yoshi are super-important people, so only highlight them in yellow.
+You are only allowed to change ONLY one line below for this question.
+No changes should be made to HTML for this question. */
+/*https://www.w3schools.com/css/css_table_style.asp*/
+tr:nth-child(3) td:nth-child(2), tr:nth-child(6) td:nth-child(2)  {
+        background-color: #ebeb34;
+}
+
