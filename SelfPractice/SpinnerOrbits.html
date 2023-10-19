@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            @keyframes spin3D {
+                from {
+                    transform: rotate3d(.5,.5,.5, 360deg);
+                }
+                to {
+                    transform: rotate3d(0deg);
+                }
+            }
+            @keyframes spin3Drev {
+                from {
+                    transform: rotate3d(0deg);
+                }
+                to {
+                    transform: rotate3d(.5,.5,.5, 360deg);
+                }
+            }
+            * {
+                box-sizing: border-box;
+            }
+            body {
+                min-height: 100vh;
+                background-color: #1d2630;
+                display: flex;
+                justify-content: center;
+                flex-wrap: wrap;
+                align-items: center;
+            }
+            .spinner-box {
+                width: 300px;
+                height: 300px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: transparent;
+            }
+            .leo {
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 50%;
+            }
+            .purple-orbit {
+                width:  355px;
+                height: 355px;
+                border: 1px solid #e03ed0df;
+                -webkit-animation: spin3D 4s linear .3s infinite;
+                
+            }
+            .blue-orbit {
+                width:  295px;
+                height: 295px;
+                border: 1px solid #91d9ffc0;
+                -webkit-animation: spin3D 3s linear .2s infinite;
+            }
+            .green-orbit {
+                 width: 250px;
+                 height: 250px;
+                 border: 1px solid #91ff98a5;
+                 -webkit-animation: spin3D 2s linear 0s infinite;
+            }
+            .red-orbit {
+                 width: 190px;
+                 height: 190px;
+                 border: 1px solid #ec3b24d8;
+                 -webkit-animation: spin3D 1s linear 0s infinite;
+            }
+            .white-orbit {
+                 width: 60px;
+                 height: 60px;
+                 border: 2px solid #ffffff;
+                 -webkit-animation: spin3Drev 12s linear 3s infinite;
+            }
+            .white-orbit2 {
+                 width: 60px;
+                 height: 60px;
+                 border: 2px solid #ffffff;
+                 -webkit-animation: spin3Drev 9s linear .2s infinite;
+            }
+            .white-orbit3 {
+                 width: 60px;
+                 height: 60px;
+                 border: 2px solid #ffffff;
+                 -webkit-animation: spin3Drev 5s linear 0s infinite;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div class="spinner-box">
+          <div class="purple-orbit leo"></div>
+          <div class="blue-orbit leo"></div>
+          <div class="green-orbit leo"></div>
+          <div class="red-orbit leo"></div>
+          <div class="white-orbit leo">
+          </div><div class="white-orbit2 leo">
+          </div><div class="white-orbit3 leo">
+          </div>
+        </div>
+          </body>
+</html>
