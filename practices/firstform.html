@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<h1>Sign Up!</h1>
+
+<form action="/action_page.php">
+    <label for="fname">Name:</label><br>
+    <input type="text" id="fname" name="fname" value="John Doe"><br>
+
+    <label for="lname">Email:</label><br>
+    <input type="text" id="mail" name="mail" value="here@lsu.edu"><br><br>
+<br>
+    <label for ="Location" id="location">Location:</label>
+    <select name = "location" id = "location">
+        <option value = "San Francisco"> San Francisco </option>
+        <option value = "Baton Rouge"> BR </option>
+        <option value = "New Orleans"> NOLA </option>
+    </select>
+<br>
+    <fieldset>
+        <legend>Gender:</legend>
+
+        <input type="radio" id="male" name="Gender" value="male">
+        <label for="male"> Male </label>
+        
+        <input type="radio" id="female" name="Gender" value="female">
+        <label for="female"> Female </label>
+        
+        <input type="radio" id="NB" name="Gender" value="NB">
+        <label for="NB"> NB </label>
+        
+    </fieldset>
+<br><br>
+<label>Experience: here is a live update<br>
+<textarea name ="Experience"></textarea>
+</label>
+<br>
+    <input type="submit" value="Sign Up">
+  </form> 

@@ -1,8 +1,16 @@
+
 body {
     background-color: teal;
 }
-h1{
+h1 {
     text-align: center;
     color: white;
-    margin-top:  
+    margin-top: 10vh;
+}
+.container {
+    border: 10px double black;    
+    background-size: contain;
+    background-color: bisque;
+    width: fit-content;
+    height: fit-content;
 }
