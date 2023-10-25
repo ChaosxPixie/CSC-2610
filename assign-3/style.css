@@ -1,19 +1,22 @@
 header {
+    display:table;
     position: relative;
     padding-top: 20vh;
+    width: 100%;
 }
 
 body {
     background-color: #030913;
     color: white;
     position: absolute;
-    padding-left: 30vh;
     padding-right: 10vh;
+    padding-left: 10%;
+    width: 100%;
 }
 
 img {
     border: 4px solid #630986;
-    perspective: 10vh;
+    position:relative;
 }
 
 .glowing-button {
@@ -87,7 +90,7 @@ img {
     justify-content: center;
     align-items: center;
     background-color: transparent;
-    width: 100vh;
+    width: 100%;
 }
 
 .leo {
@@ -147,3 +150,4 @@ img {
     border: 2px solid #b5b0b0;
     animation: spin3Drev 5s linear 0s infinite;
 }
+
