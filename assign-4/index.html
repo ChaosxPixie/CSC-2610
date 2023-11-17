@@ -1,40 +1,111 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel = "stylesheet" href="styles.css">
-  
-<!-- Bootstrap CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-
-<!-- Bootstrap JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <link rel="icon" type="image/png" href="targets/turtle.png"/>
   <title>Catch Me If You Can</title>
+
+  <!-- stylesheet links -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rebeccapurple;">
+      <a class="navbar-brand" href="#">
+        <img src="targets/turtle.png" width="30" height="30" class="d-inline-block align-top" alt="lil turtle"> Catch Me If You Can
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#" onclick="changeAnimal('cat')">Cat</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" onclick="changeAnimal('dog')">Dog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" onclick="changeAnimal('tiger')">Tiger</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
 
-<nav class="navbar navbar-expand navbar-dark bg-dark">
-  <div class="collapse navbar-collapse">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="#" id="catBtn">Cat</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#" id="dogBtn">Dog</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#" id="tigerBtn">Tiger</a>
-      </li>
-    </ul>
+  <main class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1 class="mt-5">
+          <img src="targets/turtle.png" width="45" height="50" class="d-inline-block align-top" alt="lil turtle">
+          Catch Me If You Can!
+        </h1>
+      </div>
+    </div>
+    <div class="row">
+      <div id="game-container" class="col-md-12 text-center">
+        <img id="animal" src="targets/cat.jpg" alt="Animal Image">
+      </div>
+    </div>
+    <button id="start-btn" class="btn btn-primary mt-3">Start Chase</button>
+  </main>
+
+  <!-- Modal -->
+  <div class="modal fade" id="successModal" tabindex="-1" role="dialog" aria-labelledby="successModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="successModalLabel">WINNER WINNER CHICKEN DINNER!</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://giphy.com/embed/SckkZLGs3GEyzmeT3D" allowfullscreen></iframe>
+          </div>
+          <h3>Oh No! You Caught Me! <br> Lets Play Again!</h3>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
   </div>
-</nav>
 
-  
+  <!-- script tags -->
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <script src="script.js"></script>
 </body>
+
+</html>
+
+<!--Chat GPT links, I thought this would be easier than it was... I ended up using bits 
+  of all versions of the code given from the AI to improve my code in the way
+ that I wanted it to work. The complexity of the syntax was allievieated but
+ some comprehensible things were harder to understand with out further research.-->
+
+ <!--This was initially to generate an understanding of how to set up bootsrap and jQuery
+  in the laziest of ways, however, images were not set up and no boundaries were defined
+  so a game was created based off of a target vs the images, no nav bar... etc.
+ https://chat.openai.com/share/62d5ecdd-72aa-4388-959d-8f439bd0d7cf -->
+
+ <!--This was after I gotten annoyed with the first chat, I decided to attempt a restart
+  this attempt was interesting seeing as how it initially generated a template and I was 
+  able to work in and out of there. By the end of this one I had something put together, 
+  but ended up noticing that both chats gave me code that had the image following the mouse,
+  not running from it.
+  https://chat.openai.com/share/97972747-c954-4d8a-82fa-75cebc565d74  -->
+
+<!--Finally I used the AI to help simplify and make my code more concise,
+  many times, and often it would turn into something I did not want and I would 
+  have to alter my wording and ask for simplification over and over.
+   https://chat.openai.com/share/62ac72a1-47f7-4c2f-9ea1-d1db8da89ecb -->

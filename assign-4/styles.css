@@ -1,25 +1,24 @@
 #game-container {
-    position: relative;
-    width: 1200px;
-    height: 600px;
-    border: 2px solid #333;
-    margin: auto;
-  }
-  
-  #target {
-    width: 30px;
-    height: 30px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -15px;
-    margin-left: -15px;
-    border-radius: 50%;
-    cursor: pointer;
-  }
-  
-  #start-btn {
-    display: block;
-    margin: auto;
-  }
-  
+  position: relative;
+  width: 300px;
+  height: 500px;
+  border: 2px solid rgba(64, 20, 93, 0.688);
+  margin: auto;
+}
+
+#animal {
+  width: 140px;
+  height: 120px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -15px;
+  margin-left: -15px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#start-btn {
+  display: block;
+  margin: auto;
+}

@@ -20,6 +20,19 @@ router.post('/post', async (req, res) => {
     }
 })
 
+
+/**  design a new get-based end-point, /search which support searching by name and age-gt parameters. for example,
+ * /search?name=pha&age-gt=34
+ * /search?name=mi
+ * /search?age-gt=20
+ * 
+ * 1. "name" should give output any record whose "name" value starts with the given string (case insensively).
+ * 
+ * 2. "Age-gt" should give output any record whose "age" valus is greater than the given value
+ */
+
+// get search endpoint
+
 //Get all Method
 router.get('/getAll', async (req, res) => {
     try {
