@@ -2,7 +2,7 @@ $(document).ready(function () {
   var animalSelected = false,
     isImageClicked = false,
     isGameStarted = false,
-    delta = 1000, // Distance allowed to move
+    delta = 600, // Distance allowed to move
     threshold = 500; // distance before mouse triggers movement
 
   function changeAnimal(animal) {
