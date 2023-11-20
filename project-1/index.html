@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="icon" type="image/png" href="/assign-3/pixie1.png" />
+    <title>Pixie Services</title>
+    <link rel="stylesheet" href="/assign-3/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<header>
+    <div class="spinner-box">
+    <div class="purple-orbit leo"></div>
+    <div class="blue-orbit leo"></div>
+    <div class="green-orbit leo"></div>
+    <div class="red-orbit leo"></div>
+    <div class="white-orbit leo"></div>
+    <div class="white-orbit2 leo"></div>
+    <div class="white-orbit3 leo"></div>
+    <h1>Malana Fuentes</h1>
+    </div>
+    <img src="/assign-3/me2.png" height="300px"/>
+</header>
+
+<body>
+    <div>
+    <h1>About Me</h1>
+    <p class="aboutme">
+        I am a Senior at LSU in the college of engineering.
+        I have 10+ years in Customer Service experience.
+        <br>
+        I have 1yr in IT experience.
+        IKM results > 80%.
+        <br>
+        I love anime and videogames.
+        In my spare time I like to learn and practice ASL.
+        <br>
+        I am a youth leader at my church.
+        I am a mother of 4 children and 3 dogs.
+    </p>
+    
+    <h2>Some classes I've taken so far:</h2>
+    <ul class="classes">
+        <li>Intro to EE</li>
+        <li>Digital Logic I & II</li>
+        <li>Intro to C++ I & II</li>
+        <li>Discrete Structures</li>
+        <li>Advanced Data Structures</li>
+        <li>Object Orient Design</li>
+        <li>Computer Orginization & Design</li>
+        <li>Intro to Digital Forensics</li>
+        <li>2D Art & Design</li>
+        <li>Digital Media Art I</li>
+        <li>..and a lot of Math courses.</li>
+    </ul>
+
+    <h2>Projects I've worked on:</h2>
+    <ul class="projects">
+        <li>Vending Machiene Simulation: Verilog</li>
+        <li>Black T-Shirt Digital Forensics Challenge</li>
+        <li>Keep It Simple Stupid, KISS: Fullstack</li>
+        <li>CSS and HTML Spinner Orbit: applied in header</li>
+        <li>2D Nature 9 times</li>
+        <li>2D Herstory in 3D</li>
+        <li>DM Principles of Art</li>
+    </ul>
+
+    <h3> find more projects on my Github page: 
+        <a href="https://github.com/ChaosxPixie" target="_blank">Github</a>
+    </h3>
+
+    <h2>Skill Summary:</h2>
+    <button class="glowing-button" id="toggleButton">Toggle Soft Skills</button>
+    <ul class="skills" id="softSkills">
+        <li>Adaptable</li>
+        <li>Conflict Resolution</li>
+        <li>Communicative</li>
+        <li>Creative</li>
+        <li>Critical Thinking</li>
+        <li>Dependable</li>
+        <li>Positive</li>
+        <li>Problem Solving</li>
+        <li>Organized</li>
+        <li>Team Work</li>
+    </ul>
+
+    <button class="glowing-button" id="toggleButtonHard">Toggle Hard Skills</button>
+    <ul class="skills" id="hardSkills">
+        <li>Basic ASL</li>
+        <li>UX</li>
+        <li>Internet Technologies</li>
+        <li>Variety of Coding Languages</li>
+        <li>Art & Design</li>
+    </ul>
+</div> 
+    <script>
+        // Get references to the buttons and the lists
+        const toggleButton = document.getElementById("toggleButton");
+        const toggleButtonHard = document.getElementById("toggleButtonHard");
+        const softSkillsList = document.getElementById("softSkills");
+        const hardSkillsList = document.getElementById("hardSkills");
+
+        // Initially, hide the lists
+        softSkillsList.style.display = "none";
+        hardSkillsList.style.display = "none";
+
+        // Add click event listeners to the buttons
+        toggleButton.addEventListener("click", function () {
+            toggleList(softSkillsList);
+        });
+
+        toggleButtonHard.addEventListener("click", function () {
+            toggleList(hardSkillsList);
+        });
+
+        // Function to toggle the display of a list
+        function toggleList(list) {
+            if (list.style.display === "none" || list.style.display === "") {
+                list.style.display = "block";
+            } else {
+                list.style.display = "none";
+            }
+        }
+    </script>
+</body>
+<footer>
+    <br>
+    <br>
+    <p>This is the footer</p>
+    <br>
+    <br>
+</footer>
+</html>
