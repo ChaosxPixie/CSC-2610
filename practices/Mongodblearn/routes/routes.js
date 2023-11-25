@@ -32,6 +32,31 @@ router.post('/post', async (req, res) => {
  */
 
 // get search endpoint
+router.get('/search', async (req, res) => {
+    try {
+      const { name, age } = req.query;
+  
+      let query = {};
+  
+      if (name) {
+        // Case-insensitive search for records whose 'name' starts with the given string
+        query.name = new RegExp(`^${name}`, 'i');
+      }
+  
+      if (age) {
+        // Search for records whose 'age' is greater than the given value
+        query.age = { $gt: parseInt(age-gt) };
+      }
+  
+      // Use the User model to query the database with the 'query' object
+      const results = await User.find(query);
+  
+      res.json(results);
+    } catch (error) {
+      console.error(error);
+      res.status(500).json({ error: 'Internal Server Error' });
+    }
+  });
 
 //Get all Method
 router.get('/getAll', async (req, res) => {
