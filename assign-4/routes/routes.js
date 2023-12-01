@@ -3,7 +3,6 @@ const router = express.Router()
 const Model = require('../model/model');
 module.exports = router;
 
-
 //search endpoint
 router.get('/search', async (req, res) => {
     try {
