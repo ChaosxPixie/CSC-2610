@@ -1,12 +1,21 @@
-require('dotenv').config();
-
 const express = require('express');
 const mongoose = require('mongoose');
-const mongoString = process.env.DATABASE_URL
+
+const app = express();
+
+app.use(express.json());
+app.use(express.urlencoded());
+app.use(express.static('public'))
+
 const routes = require('./routes/routes');
 
+app.use('/api', routes)
 
+//----NOTE-----
+app.set("view engine", "ejs")
 
+require('dotenv').config();
+const mongoString = process.env.DATABASE_URL
 mongoose.connect(mongoString);
 const database = mongoose.connection
 
@@ -17,15 +26,16 @@ database.on('error', (error) => {
 database.once('connected', () => {
     console.log('ByGOD we have connected to DB');
 })
-const app = express();
 
-app.use(express.json());
-
-app.listen(3000, () => {
-    console.log(`Server Welcomes you at ${3000}`)
+//--NOTE--
+app.get('/add', (req,res) => {
+    res.render("form")
 })
 
-app.use('/api', routes)
+app.listen(80, () => {
+    console.log(`Server Welcomes you at ${80}`)
+})
+
 
 
 

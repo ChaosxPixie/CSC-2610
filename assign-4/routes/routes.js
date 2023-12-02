@@ -1,49 +1,61 @@
+const Customer = require('../model/model'); //phani has as Customer 
+
 const express = require('express');
+
 const router = express.Router()
-const Model = require('../model/model');
-module.exports = router;
-
-//search endpoint
-router.get('/search', async (req, res) => {
-    try {
-        const nameQuery = req.query.name ? new RegExp(req.query.name, 'i') : null;
-        const ageGtQuery = req.query['age-gt'] ? { age: { $gt: parseInt(req.query['age-gt']) } } : null;
-
-        // Combine name and age-gt queries
-        const searchQuery = {
-            $and: [
-                nameQuery ? { name: nameQuery } : {},
-                ageGtQuery || {}
-            ]
-        };
-
-        const results = await Model.find(searchQuery);
-        res.json(results);
-    } catch (error) {
-        res.status(500).json({ message: error.message });
-    }
-});
 
 //Post Method
 router.post('/post', async (req, res) => {
-    const data = new Model({
+    console.log("I received /post")
+    console.log(req.body.name)
+    const data = new Customer({
         name: req.body.name,
         age: req.body.age
     })
 
     try {
         const dataToSave = await data.save();
-        res.status(200).json(dataToSave)
+        // res.status(200).json(dataToSave)
+
+        res.render('form', {msg: `We've added ${req.body.name}'s to the record, Thanks!}`})
+    
     }
     catch (error) {
         res.status(400).json({message: error.message})
     }
 })
 
+router.get('/search', async (req, res) => {
+    try {
+        const nameQuery = buildNameQuery(req.query.name);
+        const ageGtQuery = buildAgeQuery(req.query['age-gt']);
+
+        const searchQuery = buildSearchQuery(nameQuery, ageGtQuery);
+
+        const results = await Customer.find(searchQuery);
+        res.json(results);
+    } catch (error) {
+        res.status(500).json({ message: error.message });
+    }
+});
+
+function buildNameQuery(name) {
+    return name ? { name: new RegExp(name, 'i') } : {};
+}
+
+function buildAgeQuery(ageGt) {
+    return ageGt ? { age: { $gt: parseInt(ageGt) } } : {};
+}
+
+function buildSearchQuery(nameQuery, ageQuery) {
+    return { $and: [nameQuery, ageQuery] };
+}
+
+
 //Get all Method
 router.get('/getAll', async (req, res) => {
     try{
-        const data = await Model.find();
+        const data = await Customer.find();
         res.json(data)
     }
     catch(error){
@@ -54,7 +66,7 @@ router.get('/getAll', async (req, res) => {
 //Get by ID Method
 router.get('/getOne/:id', async (req, res) => {
     try{
-        const data = await Model.findById(req.params.id);
+        const data = await Customer.findById(req.params.id);
         res.json(data)
     }
     catch(error){
@@ -69,7 +81,7 @@ router.patch('/update/:id', async (req, res) => {
         const updatedData = req.body;
         const options = { new: true };
 
-        const result = await Model.findByIdAndUpdate(
+        const result = await Customer.findByIdAndUpdate(
             id, updatedData, options
         )
 
@@ -84,10 +96,13 @@ router.patch('/update/:id', async (req, res) => {
 router.delete('/delete/:id', async (req, res) => {
     try {
         const id = req.params.id;
-        const data = await Model.findByIdAndDelete(id)
+        const data = await Customer.findByIdAndDelete(id)
         res.send(`Document with ${data.name} has been deleted..`)
     }
     catch (error) {
         res.status(400).json({ message: error.message })
     }
 })
+
+
+module.exports = router;
