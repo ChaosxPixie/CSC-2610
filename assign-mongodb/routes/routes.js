@@ -17,7 +17,7 @@ router.post('/post', async (req, res) => {
         const dataToSave = await data.save();
         //res.status(200).json(dataToSave)
 
-        res.render('form', {msg: `We've added ${req.body.name}'s to the record, Thanks!}`})
+        res.render('form', {msg: `We've added ${req.body.name} to the record, Thanks!`})
     
     }
     catch (error) {

@@ -32,6 +32,6 @@ app.get('/add', (req,res) => {
     res.render("form")
 })
 
-app.listen(3000, () => {
-    console.log(`Server Welcomes you at ${3000}`)
+app.listen(80, () => {
+    console.log(`Server Welcomes you at ${80}`)
 })
