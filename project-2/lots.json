@@ -1,0 +1,4160 @@
+[
+    {
+        "Weekday": "Monday",
+        "Lot Name": "West Stadium Lot",
+        "Lot Code": "101",
+        "7:00 AM": "80% Full",
+        "11:00 AM": "88% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "79% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Bernie Moore Lot",
+        "Lot Code": "104",
+        "7:00 AM": "25% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "22% Full",
+        "4:00 PM": "25% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Natatorium Lot",
+        "Lot Code": "105",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "48% Full",
+        "1PM / 2PM": "46% Full",
+        "4:00 PM": "40% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Touchdown Village West Lot",
+        "Lot Code": "314",
+        "7:00 AM": "58% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "77% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Touchdown Village East Lot",
+        "Lot Code": "315",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "West Parker Blvd. Lot",
+        "Lot Code": "316",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "15% Full",
+        "1PM / 2PM": "13% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "South Stadium East Lot",
+        "Lot Code": "401",
+        "7:00 AM": "6% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "11% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "South Stadium West Lot",
+        "Lot Code": "401",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "South Quad Dr. West Lot",
+        "Lot Code": "403",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "22% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Skip Bertman Dr. East Lot",
+        "Lot Code": "404",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "22% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "East Parker Blvd. Lot",
+        "Lot Code": "604",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "99% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "ECE West Lot",
+        "Lot Code": "402",
+        "7:00 AM": "15% Full",
+        "11:00 AM": "87% Full",
+        "1PM / 2PM": "86% Full",
+        "4:00 PM": "36% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "32% Full",
+        "11:00 AM": "38% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Canal Hall North Lot",
+        "Lot Code": "111",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "76% Full",
+        "4:00 PM": "69% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Nicholson Gateway North Lot",
+        "Lot Code": "112",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "88% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Beach Volleyball Lot",
+        "Lot Code": "206",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Spruce Hall Lot",
+        "Lot Code": "210",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Alaska Street Lot (WCA West)",
+        "Lot Code": "211",
+        "7:00 AM": "56% Full",
+        "11:00 AM": "56% Full",
+        "1PM / 2PM": "57% Full",
+        "4:00 PM": "55% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Kirby Smith Hall Lot",
+        "Lot Code": "211",
+        "7:00 AM": "58% Full",
+        "11:00 AM": "59% Full",
+        "1PM / 2PM": "59% Full",
+        "4:00 PM": "62% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "North Kirby Smith Hall Lot (WCA North)",
+        "Lot Code": "211",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "17% Full",
+        "1PM / 2PM": "15% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Aster Street West Lot",
+        "Lot Code": "212",
+        "7:00 AM": "14% Full",
+        "11:00 AM": "15% Full",
+        "1PM / 2PM": "13% Full",
+        "4:00 PM": "11% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Aster Street East Lot",
+        "Lot Code": "213",
+        "7:00 AM": "63% Full",
+        "11:00 AM": "66% Full",
+        "1PM / 2PM": "68% Full",
+        "4:00 PM": "62% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Alaska Street East Lot (Cypress Dr. North)",
+        "Lot Code": "219",
+        "7:00 AM": "92% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "92% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Broussard Circle Lot",
+        "Lot Code": "220",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Pentagon Lot",
+        "Lot Code": "220",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "90% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Broussard Lot",
+        "Lot Code": "221",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "90% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Acadian Lot",
+        "Lot Code": "506",
+        "7:00 AM": "92% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Blake Hall Lot",
+        "Lot Code": "507",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Campus Lake Gravel Lot",
+        "Lot Code": "508",
+        "7:00 AM": "90% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Herget Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Miller Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Hill Farm Student Lot",
+        "Lot Code": "515",
+        "7:00 AM": "91% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "87% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Student Rec West Lot",
+        "Lot Code": "517",
+        "7:00 AM": "84% Full",
+        "11:00 AM": "80% Full",
+        "1PM / 2PM": "91% Full",
+        "4:00 PM": "91% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "32% Full",
+        "11:00 AM": "38% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "South Stadium Dr. East Lot",
+        "Lot Code": "601",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "70% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Nicholson Gateway Garage (Level 1)",
+        "Lot Code": "701",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "6% Full",
+        "1PM / 2PM": "6% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Nicholson Gateway Garage (Level 2)",
+        "Lot Code": "701",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "55% Full",
+        "1PM / 2PM": "69% Full",
+        "4:00 PM": "60% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Nicholson Gateway Garage (Level 3)",
+        "Lot Code": "701",
+        "7:00 AM": "19% Full",
+        "11:00 AM": "21% Full",
+        "1PM / 2PM": "22% Full",
+        "4:00 PM": "25% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Nicholson Gateway Garage (Level 4)",
+        "Lot Code": "701",
+        "7:00 AM": "6% Full",
+        "11:00 AM": "10% Full",
+        "1PM / 2PM": "5% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Nicholson Gateway Garage (Level 5)",
+        "Lot Code": "701",
+        "7:00 AM": "6% Full",
+        "11:00 AM": "9% Full",
+        "1PM / 2PM": "5% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "East Campus Apartments (East Lot)",
+        "Lot Code": "504 A",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "East Campus Apartments (West Lot)",
+        "Lot Code": "504 B",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Corporate Canal South Lot",
+        "Lot Code": "518 B",
+        "7:00 AM": "85% Full",
+        "11:00 AM": "74% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "91% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Campus Lake - South Campus Lot (McVoy Hall)",
+        "Lot Code": "Street",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "94% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "South Campus Street (Bridge) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "91% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "94% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "23% Full",
+        "11:00 AM": "61% Full",
+        "1PM / 2PM": "56% Full",
+        "4:00 PM": "54% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Fraternity Circle Lot",
+        "Lot Code": "501",
+        "7:00 AM": "79% Full",
+        "11:00 AM": "90% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "92% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Greek Row Central Lot",
+        "Lot Code": "521",
+        "7:00 AM": "48% Full",
+        "11:00 AM": "38% Full",
+        "1PM / 2PM": "44% Full",
+        "4:00 PM": "36% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Greek Row South Lot",
+        "Lot Code": "523",
+        "7:00 AM": "77% Full",
+        "11:00 AM": "81% Full",
+        "1PM / 2PM": "84% Full",
+        "4:00 PM": "74% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Greek Row North Lot",
+        "Lot Code": "524",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "29% Full",
+        "1PM / 2PM": "42% Full",
+        "4:00 PM": "19% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Fraternity Ln. Lot (Street)",
+        "Lot Code": "500A",
+        "7:00 AM": "8% Full",
+        "11:00 AM": "67% Full",
+        "1PM / 2PM": "75% Full",
+        "4:00 PM": "67% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Fraternity Ln. Lot",
+        "Lot Code": "500A",
+        "7:00 AM": "49% Full",
+        "11:00 AM": "72% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "92% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Fraternity Ln. East Lot",
+        "Lot Code": "500B",
+        "7:00 AM": "71% Full",
+        "11:00 AM": "76% Ful",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "88% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Fraternity Ln. North Lot",
+        "Lot Code": "500C",
+        "7:00 AM": "63% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Greek Row West Lot",
+        "Lot Code": "520",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "West Lakeshore North Lot",
+        "Lot Code": "513",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "West State St. Lot",
+        "Lot Code": "218",
+        "7:00 AM": "62% Full",
+        "11:00 AM": "87% Full",
+        "1PM / 2PM": "67% Full",
+        "4:00 PM": "84% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Donahue Street Lot",
+        "Lot Code": "220",
+        "7:00 AM": "43% Full",
+        "11:00 AM": "79% Full",
+        "1PM / 2PM": "86% Full",
+        "4:00 PM": "79% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Old Band Hall (Gravel) Lot",
+        "Lot Code": "222",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "4% Full",
+        "1PM / 2PM": "61% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "312 A (Gravel)",
+        "Lot Code": "312",
+        "7:00 AM": "60% Full",
+        "11:00 AM": "90% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "57% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Public Safety Lot",
+        "Lot Code": "400",
+        "7:00 AM": "57% Full",
+        "11:00 AM": "68% Full",
+        "1PM / 2PM": "75% Full",
+        "4:00 PM": "61% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Hansen's Lot",
+        "Lot Code": "420",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "20% Full",
+        "1PM / 2PM": "20% Full",
+        "4:00 PM": "10% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Vet Med East Lot",
+        "Lot Code": "421",
+        "7:00 AM": "44% Full",
+        "11:00 AM": "67% Full",
+        "1PM / 2PM": "65% Full",
+        "4:00 PM": "83% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Vet Med West Lot",
+        "Lot Code": "422",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Vet Ln. Lot",
+        "Lot Code": "423",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "LADDL Lot",
+        "Lot Code": "424",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Warehouse Ln. Lot",
+        "Lot Code": "425",
+        "7:00 AM": "13% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "20% Full",
+        "4:00 PM": "20% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "University Stores B Lot",
+        "Lot Code": "430",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "20% Full",
+        "1PM / 2PM": "20% Full",
+        "4:00 PM": "10% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "U-High North B Lot",
+        "Lot Code": "510",
+        "7:00 AM": "87% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "U-High North B Lot",
+        "Lot Code": "510",
+        "7:00 AM": "87% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "U-High South B Lot",
+        "Lot Code": "511",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "21% Full",
+        "1PM / 2PM": "54% Full",
+        "4:00 PM": "37% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Early Learning Center B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "77% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Nelson Memorial B Lot",
+        "Lot Code": "603",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "52% Full",
+        "1PM / 2PM": "45% Full",
+        "4:00 PM": "52% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Tiger Band Hall B Lot",
+        "Lot Code": "214 B",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "20% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "The 5 B Lot",
+        "Lot Code": "221 A",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Cogen Lot",
+        "Lot Code": "301 A",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "73% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Electrical Engineering B Lot",
+        "Lot Code": "304 A",
+        "7:00 AM": "41% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "73% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Facility Services Lot (Fieldhouse Dr.)",
+        "Lot Code": "304 C",
+        "7:00 AM": "80% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Sturgis Hall B Lot (312A)",
+        "Lot Code": "312 B",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "92% Full",
+        "4:00 PM": "77% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "E.B. Doran Hall Lot",
+        "Lot Code": "312 D",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "74% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "ECE B Lot",
+        "Lot Code": "402 B",
+        "7:00 AM": "2% Full",
+        "11:00 AM": "6% Full",
+        "1PM / 2PM": "5% Full",
+        "4:00 PM": "8% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "E.B Doran Hall (Gravel) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "74% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "South Quad B (Gravel) Lot",
+        "Lot Code": "403 A",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "14% Full",
+        "1PM / 2PM": "7% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Engineering Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "14% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "39% Full",
+        "4:00 PM": "23% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Fieldhouse Dr. (Alaska St.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "37% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "64% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Forestry Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "86% Full",
+        "11:00 AM": "86% Full",
+        "1PM / 2PM": "86% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Hospital Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "0% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Infirmary Rd. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "27% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "87% Full",
+        "4:00 PM": "87% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Tower Dr. B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "75% Full",
+        "11:00 AM": "80% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Parade Grounds North Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "57% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Parade Grounds South Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "53% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "North Stadium Dr. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "22% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Monday",
+        "Lot Name": "Parker Coliseum B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "92% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "West Stadium Lot",
+        "Lot Code": "101",
+        "7:00 AM": "27% Full",
+        "11:00 AM": "16% Full",
+        "1PM / 2PM": "17% Full",
+        "4:00 PM": "30% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Bernie Moore Lot",
+        "Lot Code": "104",
+        "7:00 AM": "6% Full",
+        "11:00 AM": "14% Full",
+        "1PM / 2PM": "15% Full",
+        "4:00 PM": "3% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Natatorium Lot",
+        "Lot Code": "105",
+        "7:00 AM": "1% full",
+        "11:00 AM": "40% Full",
+        "1PM / 2PM": "40% Full",
+        "4:00 PM": "2% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Touchdown Village West Lot",
+        "Lot Code": "314",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "71% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Touchdown Village East Lot",
+        "Lot Code": "315",
+        "7:00 AM": "12% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "92% Full",
+        "4:00 PM": "30% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "West Parker Blvd. Lot",
+        "Lot Code": "316",
+        "7:00 AM": "12% Full",
+        "11:00 AM": "16% Full",
+        "1PM / 2PM": "10% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "South Stadium East Lot",
+        "Lot Code": "401",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "6% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "South Stadium West Lot",
+        "Lot Code": "401",
+        "7:00 AM": "4% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "6% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "South Quad Dr. West Lot",
+        "Lot Code": "403",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "6% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Skip Bertman Dr. East Lot",
+        "Lot Code": "404",
+        "7:00 AM": "2% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "25% Full",
+        "4:00 PM": "20% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "East Parker Blvd. Lot",
+        "Lot Code": "604",
+        "7:00 AM": "13% Full",
+        "11:00 AM": "47% Full",
+        "1PM / 2PM": "42% Full",
+        "4:00 PM": "16% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "ECE West Lot",
+        "Lot Code": "402",
+        "7:00 AM": "15% Full",
+        "11:00 AM": "87% Full",
+        "1PM / 2PM": "86% Full",
+        "4:00 PM": "36% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "28% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "72% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Canal Hall North Lot",
+        "Lot Code": "111",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "87% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Nicholson Gateway North Lot",
+        "Lot Code": "112",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "94% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Beach Volleyball Lot",
+        "Lot Code": "206",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "91% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Spruce Hall Lot",
+        "Lot Code": "210",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Alaska Street Lot (WCA West)",
+        "Lot Code": "211",
+        "7:00 AM": "84% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "87% Full",
+        "4:00 PM": "82% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Kirby Smith Hall Lot",
+        "Lot Code": "211",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "North Kirby Smith Hall Lot (WCA North)",
+        "Lot Code": "211",
+        "7:00 AM": "33% Full",
+        "11:00 AM": "42% Full",
+        "1PM / 2PM": "36% Full",
+        "4:00 PM": "26% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Aster Street West Lot",
+        "Lot Code": "212",
+        "7:00 AM": "2% Full",
+        "11:00 AM": "19% Full",
+        "1PM / 2PM": "23% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Aster Street East Lot",
+        "Lot Code": "213",
+        "7:00 AM": "11% Full",
+        "11:00 AM": "10% Full",
+        "1PM / 2PM": "9% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Alaska Street East Lot (Cypress Dr. North)",
+        "Lot Code": "219",
+        "7:00 AM": "65% Full",
+        "11:00 AM": "67% Full",
+        "1PM / 2PM": "69% Full",
+        "4:00 PM": "63% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Broussard Circle Lot",
+        "Lot Code": "220",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "90% Full",
+        "1PM / 2PM": "84% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Pentagon Lot",
+        "Lot Code": "220",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "91% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Acadian Lot",
+        "Lot Code": "506",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "99% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Blake Hall Lot",
+        "Lot Code": "507",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Campus Lake Gravel Lot",
+        "Lot Code": "508",
+        "7:00 AM": "93% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Herget Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "99% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Miller Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Hill Farm Student Lot",
+        "Lot Code": "515",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "0% Full",
+        "1PM / 2PM": "2% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Student Rec West Lot",
+        "Lot Code": "517",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "28% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "72% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "South Stadium Dr. East Lot",
+        "Lot Code": "601",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "0% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 1)",
+        "Lot Code": "701",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "92% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 2)",
+        "Lot Code": "701",
+        "7:00 AM": "55% Full",
+        "11:00 AM": "56% Full",
+        "1PM / 2PM": "70% Full",
+        "4:00 PM": "61% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 3)",
+        "Lot Code": "701",
+        "7:00 AM": "19% Full",
+        "11:00 AM": "21% Full",
+        "1PM / 2PM": "21% Full",
+        "4:00 PM": "24% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 4)",
+        "Lot Code": "701",
+        "7:00 AM": "6% Full",
+        "11:00 AM": "9% Full",
+        "1PM / 2PM": "5% Full",
+        "4:00 PM": "6% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 5)",
+        "Lot Code": "701",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "4% Full",
+        "1PM / 2PM": "4% Full",
+        "4:00 PM": "2% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "East Campus Apartments (East Lot)",
+        "Lot Code": "504 A",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "East Campus Apartments (West Lot)",
+        "Lot Code": "504 B",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Corporate Canal South Lot",
+        "Lot Code": "518 B",
+        "7:00 AM": "85% Full",
+        "11:00 AM": "74% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "91% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Campus Lake - South Campus Lot (McVoy Hall)",
+        "Lot Code": "Street",
+        "7:00 AM": "94% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "South Campus Street (Bridge) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "93% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "92% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "63% Full",
+        "11:00 AM": "67% Full",
+        "1PM / 2PM": "66% Full",
+        "4:00 PM": "62% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Fraternity Circle Lot",
+        "Lot Code": "501",
+        "7:00 AM": "77% Full",
+        "11:00 AM": "87% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "83% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Greek Row Central Lot",
+        "Lot Code": "521",
+        "7:00 AM": "50% Full",
+        "11:00 AM": "63% Full",
+        "1PM / 2PM": "67% Full",
+        "4:00 PM": "43% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Greek Row South Lot",
+        "Lot Code": "523",
+        "7:00 AM": "86% Full",
+        "11:00 AM": "87% Full",
+        "1PM / 2PM": "82% Full",
+        "4:00 PM": "77% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Greek Row North Lot",
+        "Lot Code": "524",
+        "7:00 AM": "9% Full",
+        "11:00 AM": "33% Full",
+        "1PM / 2PM": "42% Full",
+        "4:00 PM": "25% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Fraternity Ln. Lot (Street)",
+        "Lot Code": "500A",
+        "7:00 AM": "52% Full",
+        "11:00 AM": "68% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "44% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Fraternity Ln. Lot",
+        "Lot Code": "500B",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "87% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Fraternity Ln. East Lot (Gravel)",
+        "Lot Code": "500B",
+        "7:00 AM": "80% Full",
+        "11:00 AM": "78% Full",
+        "1PM / 2PM": "71% Full",
+        "4:00 PM": "66% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Fraternity Ln. North Lot",
+        "Lot Code": "500C",
+        "7:00 AM": "63% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Greek Row West Lot",
+        "Lot Code": "520",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "West Lakeshore North Lot",
+        "Lot Code": "513",
+        "7:00 AM": "85% Full",
+        "11:00 AM": "77% Full",
+        "1PM / 2PM": "74% Full",
+        "4:00 PM": "59% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "West State St. Lot",
+        "Lot Code": "218",
+        "7:00 AM": "69% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "65% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Donahue St. Lot",
+        "Lot Code": "220",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "94% Full",
+        "4:00 PM": "77% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Old Band Hall (Gravel) Lot",
+        "Lot Code": "222",
+        "7:00 AM": "65% Full",
+        "11:00 AM": "11% Full",
+        "1PM / 2PM": "19% Full",
+        "4:00 PM": "11% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "312A Gravel Lot",
+        "Lot Code": "312",
+        "7:00 AM": "63% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "80% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Public Safety B Lot",
+        "Lot Code": "400",
+        "7:00 AM": "30% Full",
+        "11:00 AM": "45% Full",
+        "1PM / 2PM": "57% Full",
+        "4:00 PM": "40% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Hansen's Lot",
+        "Lot Code": "420",
+        "7:00 AM": "40% Full",
+        "11:00 AM": "40% Full",
+        "1PM / 2PM": "57% Full",
+        "4:00 PM": "40% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Vet Med East Lot",
+        "Lot Code": "421",
+        "7:00 AM": "21% Full",
+        "11:00 AM": "77% Full",
+        "1PM / 2PM": "74% Full",
+        "4:00 PM": "67% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Vet Med West Lot",
+        "Lot Code": "422",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Vet Ln. Lot",
+        "Lot Code": "423",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "LADDL Lot",
+        "Lot Code": "424",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Warehouse Ln. Lot",
+        "Lot Code": "425",
+        "7:00 AM": "13% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "40% Full",
+        "4:00 PM": "30% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "University Stores B Lot",
+        "Lot Code": "430",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "20% Full",
+        "1PM / 2PM": "30% Full",
+        "4:00 PM": "30% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "U-High North B Lot",
+        "Lot Code": "510",
+        "7:00 AM": "72% Full",
+        "11:00 AM": "72% Full",
+        "1PM / 2PM": "72% Full",
+        "4:00 PM": "72% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "U-High South B Lot",
+        "Lot Code": "511",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "54% Full",
+        "1PM / 2PM": "50% Full",
+        "4:00 PM": "45% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Early Learning Center B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "77% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Nelson Memorial Lot",
+        "Lot Code": "603",
+        "7:00 AM": "31% Full",
+        "11:00 AM": "52% Full",
+        "1PM / 2PM": "58% Full",
+        "4:00 PM": "44% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Tiger Band Hall B Lot",
+        "Lot Code": "214 B",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "0% Full",
+        "1PM / 2PM": "16% Full",
+        "4:00 PM": "16% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "The 5 B Lot",
+        "Lot Code": "221 A",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "92% Full",
+        "4:00 PM": "65% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Cogen Hall Lot",
+        "Lot Code": "301 A",
+        "7:00 AM": "30% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "92% Full",
+        "4:00 PM": "65% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Electrical Engineering Lot",
+        "Lot Code": "304 C",
+        "7:00 AM": "35% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "70% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Facility Services B Lot (Fieldhouse Dr.)",
+        "Lot Code": "312 B",
+        "7:00 AM": "84% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Sturgis Hall B Lot",
+        "Lot Code": "312 D",
+        "7:00 AM": "15% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "88% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "E.B. Doran Hall Lot",
+        "Lot Code": "402 B",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "74% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "ECE B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "10% Full",
+        "1PM / 2PM": "8% Full",
+        "4:00 PM": "3% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "E.B.Doran Hall (Gravel) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "74% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "South Quad B Lot",
+        "Lot Code": "403 A",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "14% Full",
+        "1PM / 2PM": "7% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Engineering Ln. B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "14% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "39% Full",
+        "4:00 PM": "23% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Fieldhouse Dr. (Alaska St.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "31% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Forestry Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "53% Full",
+        "11:00 AM": "66% Full",
+        "1PM / 2PM": "73% Full",
+        "4:00 PM": "66% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Hospital Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "10% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "83% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Infirmary Rd. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "81% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "81% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Tower Dr. B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "68% Full",
+        "11:00 AM": "74% Full",
+        "1PM / 2PM": "75% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Parade Grounds North Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "50% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "92% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Parade Grounds South Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "21% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "North Stadium Dr. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "44% Full",
+        "11:00 AM": "66% Full",
+        "1PM / 2PM": "81% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Tuesday",
+        "Lot Name": "Parker Coliseum B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "West Stadium Lot",
+        "Lot Code": "101",
+        "7:00 AM": "19% Full",
+        "11:00 AM": "82% Full",
+        "1PM / 2PM": "79% Full",
+        "4:00 PM": "74% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Bernie Moore Lot",
+        "Lot Code": "104",
+        "7:00 AM": "4% Full",
+        "11:00 AM": "89% Full",
+        "1PM / 2PM": "67% Full",
+        "4:00 PM": "21% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Natatorium Lot",
+        "Lot Code": "105",
+        "7:00 AM": "27% Full",
+        "11:00 AM": "32% Full",
+        "1PM / 2PM": "35% Full",
+        "4:00 PM": "42% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Touchdown Village West Lot",
+        "Lot Code": "314",
+        "7:00 AM": "2% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "92% Full",
+        "4:00 PM": "65% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Touchdown Village East Lot",
+        "Lot Code": "315",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "47% Full",
+        "1PM / 2PM": "41% Full",
+        "4:00 PM": "21% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "West Parker Blvd. Lot",
+        "Lot Code": "316",
+        "7:00 AM": "6% Full",
+        "11:00 AM": "16% Full",
+        "1PM / 2PM": "10% Full",
+        "4:00 PM": "3% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "South Stadium East Lot",
+        "Lot Code": "401",
+        "7:00 AM": "4% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "South Stadium West Lot",
+        "Lot Code": "401",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "South Quad Dr. West Lot",
+        "Lot Code": "403",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Skip Bertman Dr. East Lot",
+        "Lot Code": "404",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "26% Full",
+        "1PM / 2PM": "24% Full",
+        "4:00 PM": "18% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "East Parker Blvd. Lot",
+        "Lot Code": "604",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "48% Full",
+        "1PM / 2PM": "42% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "ECE West Lot",
+        "Lot Code": "402",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "17% Full",
+        "1PM / 2PM": "86% Full",
+        "4:00 PM": "41% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "36% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "91% Full",
+        "4:00 PM": "73% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Canal Hall North Lot",
+        "Lot Code": "111",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "88% Full",
+        "1PM / 2PM": "85% Full",
+        "4:00 PM": "75% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Nicholson Gateway North Lot",
+        "Lot Code": "112",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Beach Volleyball Lot",
+        "Lot Code": "206",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Spruce Hall Lot",
+        "Lot Code": "210",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Alaska Street Lot (WCA West)",
+        "Lot Code": "211",
+        "7:00 AM": "85% Full",
+        "11:00 AM": "84% Full",
+        "1PM / 2PM": "86% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Kirby Smith Hall Lot",
+        "Lot Code": "211",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "99% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "North Kirby Smith Hall Lot (WCA North)",
+        "Lot Code": "211",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "65% Full",
+        "1PM / 2PM": "53% Full",
+        "4:00 PM": "52% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Aster Street West Lot",
+        "Lot Code": "212",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "16% Full",
+        "1PM / 2PM": "20% Full",
+        "4:00 PM": "3% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Aster Street East Lot",
+        "Lot Code": "213",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "10% Full",
+        "1PM / 2PM": "11% Full",
+        "4:00 PM": "8% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Alaska Street East Lot (Cypress Dr. North)",
+        "Lot Code": "219",
+        "7:00 AM": "65% Full",
+        "11:00 AM": "68% Full",
+        "1PM / 2PM": "68% Full",
+        "4:00 PM": "48% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Broussard Circle Lot",
+        "Lot Code": "220",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Pentagon Lot",
+        "Lot Code": "220",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Acadian Lot",
+        "Lot Code": "506",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "99% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Blake Hall Lot",
+        "Lot Code": "507",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Campus Lake Gravel Lot",
+        "Lot Code": "508",
+        "7:00 AM": "92% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "94% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Herget Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Miller Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "99% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Hill Farm Student Lot",
+        "Lot Code": "515",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "0% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "90% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Student Rec West Lot",
+        "Lot Code": "517",
+        "7:00 AM": "88% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "94% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "36% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "91% Full",
+        "4:00 PM": "73% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "South Stadium Dr. East Lot",
+        "Lot Code": "601",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "78% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "0% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 1)",
+        "Lot Code": "701",
+        "7:00 AM": "93% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "78% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 2)",
+        "Lot Code": "701",
+        "7:00 AM": "87% Full",
+        "11:00 AM": "88% Full",
+        "1PM / 2PM": "71% Full",
+        "4:00 PM": "55% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 3)",
+        "Lot Code": "701",
+        "7:00 AM": "32% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "25% Full",
+        "4:00 PM": "24% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 4)",
+        "Lot Code": "701",
+        "7:00 AM": "8% Full",
+        "11:00 AM": "8% Full",
+        "1PM / 2PM": "8% Full",
+        "4:00 PM": "6% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Nicholson Gateway Garage (Level 5)",
+        "Lot Code": "701",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "2% Full",
+        "1PM / 2PM": "1% Full",
+        "4:00 PM": "0% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "East Campus Apartments (East Lot)",
+        "Lot Code": "504 A",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "East Campus Apartments (West Lot)",
+        "Lot Code": "504 B",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Corporate Canal South Lot",
+        "Lot Code": "518 B",
+        "7:00 AM": "86% Full",
+        "11:00 AM": "70% Full",
+        "1PM / 2PM": "84% Full",
+        "4:00 PM": "78% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Campus Lake - South Campus Lot (McVoy Hall)",
+        "Lot Code": "Street",
+        "7:00 AM": "83% Full",
+        "11:00 AM": "83% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "South Campus Street (Bridge) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "93% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "61% Full",
+        "11:00 AM": "73% Full",
+        "1PM / 2PM": "62% Full",
+        "4:00 PM": "60% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Fraternity Circle Lot",
+        "Lot Code": "501",
+        "7:00 AM": "77% Full",
+        "11:00 AM": "87% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "83% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Greek Row Central Lot",
+        "Lot Code": "521",
+        "7:00 AM": "44% Full",
+        "11:00 AM": "62% Full",
+        "1PM / 2PM": "69% Full",
+        "4:00 PM": "48% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Greek Row South Lot",
+        "Lot Code": "523",
+        "7:00 AM": "88% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "57% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Greek Row North Lot",
+        "Lot Code": "524",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "19% Full",
+        "1PM / 2PM": "36% Full",
+        "4:00 PM": "3% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Fraternity Ln. Lot (Street)",
+        "Lot Code": "500A",
+        "7:00 AM": "52% Full",
+        "11:00 AM": "68% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "44% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Fraternity Ln. Lot",
+        "Lot Code": "500B",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "87% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Fraternity Ln. East Lot (Gravel)",
+        "Lot Code": "500B",
+        "7:00 AM": "80% Full",
+        "11:00 AM": "78% Full",
+        "1PM / 2PM": "71% Full",
+        "4:00 PM": "66% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Fraternity Ln. North Lot",
+        "Lot Code": "500C",
+        "7:00 AM": "94% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "83% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Greek Row West Lot",
+        "Lot Code": "520",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "94% Full",
+        "4:00 PM": "57% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "West Lakeshore North Lot",
+        "Lot Code": "513",
+        "7:00 AM": "59% Full",
+        "11:00 AM": "81% Full",
+        "1PM / 2PM": "67% Full",
+        "4:00 PM": "64% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "West State St. Lot",
+        "Lot Code": "218",
+        "7:00 AM": "78% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "76% Full",
+        "4:00 PM": "73% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Donahue Street Lot",
+        "Lot Code": "220",
+        "7:00 AM": "11% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "33% Full",
+        "4:00 PM": "78% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Old Band Hall (Gravel) Lot",
+        "Lot Code": "222",
+        "7:00 AM": "73% Full",
+        "11:00 AM": "15% Full",
+        "1PM / 2PM": "8% Full",
+        "4:00 PM": "15% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "312 A (Gravel)",
+        "Lot Code": "312",
+        "7:00 AM": "13% Full",
+        "11:00 AM": "27% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "73% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Public Safety Lot",
+        "Lot Code": "400",
+        "7:00 AM": "19% Full",
+        "11:00 AM": "19% Full",
+        "1PM / 2PM": "21% Full",
+        "4:00 PM": "21% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Hansen's Lot",
+        "Lot Code": "420",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "20% Full",
+        "1PM / 2PM": "20% Full",
+        "4:00 PM": "10% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Vet Med East Lot",
+        "Lot Code": "421",
+        "7:00 AM": "21% Full",
+        "11:00 AM": "25% Full",
+        "1PM / 2PM": "75% Full",
+        "4:00 PM": "61% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Vet Med West Lot",
+        "Lot Code": "422",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Vet Ln. Lot",
+        "Lot Code": "423",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "LADDL Lot",
+        "Lot Code": "424",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Warehouse Ln. Lot",
+        "Lot Code": "425",
+        "7:00 AM": "13% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "50% Full",
+        "4:00 PM": "60% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "University Stores B Lot",
+        "Lot Code": "430",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "30% Full",
+        "4:00 PM": "25% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "U-High North B Lot",
+        "Lot Code": "510",
+        "7:00 AM": "93% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "U-High South B Lot",
+        "Lot Code": "511",
+        "7:00 AM": "79% Full",
+        "11:00 AM": "71% Full",
+        "1PM / 2PM": "75% Full",
+        "4:00 PM": "46% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Early Learning Center B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "77% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Nelson Memorial B Lot",
+        "Lot Code": "603",
+        "7:00 AM": "31% Full",
+        "11:00 AM": "52% Full",
+        "1PM / 2PM": "58% Full",
+        "4:00 PM": "44% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Tiger Band Hall B Lot",
+        "Lot Code": "214 B",
+        "7:00 AM": "17% Full",
+        "11:00 AM": "0% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "83% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "The 5 B Lot",
+        "Lot Code": "221 A",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "82% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Cogen Lot",
+        "Lot Code": "301 A",
+        "7:00 AM": "65% Full",
+        "11:00 AM": "88% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "62% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Electrical Engineering B Lot",
+        "Lot Code": "304 A",
+        "7:00 AM": "40% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "76% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Facility Services Lot (Fieldhouse Dr.)",
+        "Lot Code": "304 C",
+        "7:00 AM": "67% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "84% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Sturgis Hall B Lot (312A)",
+        "Lot Code": "312 B",
+        "7:00 AM": "14% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "87% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "E.B. Doran Hall Lot",
+        "Lot Code": "312 D",
+        "7:00 AM": "32% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "ECE B Lot",
+        "Lot Code": "402 B",
+        "7:00 AM": "32% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "E.B Doran Hall (Gravel) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "80% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "75% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "South Quad B (Gravel) Lot",
+        "Lot Code": "403 A",
+        "7:00 AM": "2% Full",
+        "11:00 AM": "4% Full",
+        "1PM / 2PM": "5% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Engineering Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "14% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "39% Full",
+        "4:00 PM": "23% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Fieldhouse Dr. (Alaska St.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "21% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Forestry Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "87% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Hospital Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "17% Full",
+        "1PM / 2PM": "83% Full",
+        "4:00 PM": "83% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Infirmary Rd. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Tower Dr. B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "78% Full",
+        "11:00 AM": "80% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Parade Grounds North Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "50% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Parade Grounds South Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "31% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "90% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "North Stadium Dr. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "67% Full",
+        "11:00 AM": "74% Full",
+        "1PM / 2PM": "56% Full",
+        "4:00 PM": "41% Full"
+    },
+    {
+        "Weekday": "Wednesday",
+        "Lot Name": "Parker Coliseum B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "76% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "87% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "West Stadium Lot",
+        "Lot Code": "101",
+        "7:00 AM": "19% Full",
+        "11:00 AM": "82% Full",
+        "1PM / 2PM": "79% Full",
+        "4:00 PM": "74% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Bernie Moore Lot",
+        "Lot Code": "104",
+        "7:00 AM": "4% Full",
+        "11:00 AM": "89% Full",
+        "1PM / 2PM": "67% Full",
+        "4:00 PM": "21% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Natatorium Lot",
+        "Lot Code": "105",
+        "7:00 AM": "27% Full",
+        "11:00 AM": "32% Full",
+        "1PM / 2PM": "35% Full",
+        "4:00 PM": "42% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Touchdown Village West Lot",
+        "Lot Code": "314",
+        "7:00 AM": "2% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "92% Full",
+        "4:00 PM": "65% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Touchdown Village East Lot",
+        "Lot Code": "315",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "47% Full",
+        "1PM / 2PM": "41% Full",
+        "4:00 PM": "21% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "West Parker Blvd. Lot",
+        "Lot Code": "316",
+        "7:00 AM": "6% Full",
+        "11:00 AM": "16% Full",
+        "1PM / 2PM": "10% Full",
+        "4:00 PM": "3% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "South Stadium East Lot",
+        "Lot Code": "401",
+        "7:00 AM": "4% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "South Stadium West Lot",
+        "Lot Code": "401",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "South Quad Dr. West Lot",
+        "Lot Code": "403",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Skip Bertman Dr. East Lot",
+        "Lot Code": "404",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "26% Full",
+        "1PM / 2PM": "24% Full",
+        "4:00 PM": "18% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "East Parker Blvd. Lot",
+        "Lot Code": "604",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "41% Full",
+        "1PM / 2PM": "43% Full",
+        "4:00 PM": "1% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "ECE West Lot",
+        "Lot Code": "402",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "17% Full",
+        "1PM / 2PM": "86% Full",
+        "4:00 PM": "41% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "33% Full",
+        "11:00 AM": "90% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "65% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Canal Hall North Lot",
+        "Lot Code": "111",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "82% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Nicholson Gateway North Lot",
+        "Lot Code": "112",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Beach Volleyball Lot",
+        "Lot Code": "206",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Spruce Hall Lot",
+        "Lot Code": "210",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "96% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Alaska Street Lot (WCA West)",
+        "Lot Code": "211",
+        "7:00 AM": "88% Full",
+        "11:00 AM": "89% Full",
+        "1PM / 2PM": "85% Full",
+        "4:00 PM": "87% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Kirby Smith Hall Lot",
+        "Lot Code": "211",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "99% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "North Kirby Smith Hall Lot (WCA North)",
+        "Lot Code": "211",
+        "7:00 AM": "55% Full",
+        "11:00 AM": "52% Full",
+        "1PM / 2PM": "52% Full",
+        "4:00 PM": "53% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Aster Street West Lot",
+        "Lot Code": "212",
+        "7:00 AM": "2% Full",
+        "11:00 AM": "7% Full",
+        "1PM / 2PM": "8% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Aster Street East Lot",
+        "Lot Code": "213",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "13% Full",
+        "1PM / 2PM": "14% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Alaska Street East Lot (Cypress Dr. North)",
+        "Lot Code": "219",
+        "7:00 AM": "67% Full",
+        "11:00 AM": "65% Full",
+        "1PM / 2PM": "76% Full",
+        "4:00 PM": "69% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Broussard Circle Lot",
+        "Lot Code": "220",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Pentagon Lot",
+        "Lot Code": "220",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "94% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Acadian Lot",
+        "Lot Code": "506",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "87% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Blake Hall Lot",
+        "Lot Code": "507",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "91% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Campus Lake Gravel Lot",
+        "Lot Code": "508",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Herget Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Miller Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "89% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Hill Farm Student Lot",
+        "Lot Code": "515",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "2% Full",
+        "1PM / 2PM": "2% Full",
+        "4:00 PM": "3% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Student Rec West Lot",
+        "Lot Code": "517",
+        "7:00 AM": "86% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "94% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "33% Full",
+        "11:00 AM": "90% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "65% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "South Stadium Dr. East Lot",
+        "Lot Code": "601",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "68% Full",
+        "1PM / 2PM": "74% Full",
+        "4:00 PM": "0% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Nicholson Gateway Garage (Level 1)",
+        "Lot Code": "701",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "85% Full",
+        "4:00 PM": "82% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Nicholson Gateway Garage (Level 2)",
+        "Lot Code": "701",
+        "7:00 AM": "82% Full",
+        "11:00 AM": "86% Full",
+        "1PM / 2PM": "62% Full",
+        "4:00 PM": "54% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Nicholson Gateway Garage (Level 3)",
+        "Lot Code": "701",
+        "7:00 AM": "26% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "25% Full",
+        "4:00 PM": "21% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Nicholson Gateway Garage (Level 4)",
+        "Lot Code": "701",
+        "7:00 AM": "7% Full",
+        "11:00 AM": "7% Full",
+        "1PM / 2PM": "5% Full",
+        "4:00 PM": "6% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Nicholson Gateway Garage (Level 5)",
+        "Lot Code": "701",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "2% Full",
+        "1PM / 2PM": "2% Full",
+        "4:00 PM": "1% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "East Campus Apartments (East Lot)",
+        "Lot Code": "504 A",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "East Campus Apartments (West Lot)",
+        "Lot Code": "504 B",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Corporate Canal South Lot",
+        "Lot Code": "518 B",
+        "7:00 AM": "81% Full",
+        "11:00 AM": "72% Full",
+        "1PM / 2PM": "78% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Campus Lake - South Campus Lot (McVoy Hall)",
+        "Lot Code": "Street",
+        "7:00 AM": "89% Full",
+        "11:00 AM": "78% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "South Campus Street (Bridge) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "94% Full",
+        "11:00 AM": "90% Full",
+        "1PM / 2PM": "92% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "56% Full",
+        "11:00 AM": "65% Full",
+        "1PM / 2PM": "61% Full",
+        "4:00 PM": "78% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Fraternity Circle Lot",
+        "Lot Code": "501",
+        "7:00 AM": "81% Full",
+        "11:00 AM": "88% Full",
+        "1PM / 2PM": "91% Full",
+        "4:00 PM": "84% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Greek Row Central Lot",
+        "Lot Code": "521",
+        "7:00 AM": "47% Full",
+        "11:00 AM": "61% Full",
+        "1PM / 2PM": "60% Full",
+        "4:00 PM": "45% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Greek Row South Lot",
+        "Lot Code": "523",
+        "7:00 AM": "84% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "41% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Greek Row North Lot",
+        "Lot Code": "524",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "15% Full",
+        "1PM / 2PM": "17% Full",
+        "4:00 PM": "0% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Fraternity Ln. Lot (Street)",
+        "Lot Code": "500A",
+        "7:00 AM": "76% Full",
+        "11:00 AM": "80% Full",
+        "1PM / 2PM": "84% Full",
+        "4:00 PM": "56% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Fraternity Ln. Lot",
+        "Lot Code": "500B",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "75% Full",
+        "1PM / 2PM": "75% Full",
+        "4:00 PM": "84% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Fraternity Ln. East Lot (Gravel)",
+        "Lot Code": "500B",
+        "7:00 AM": "53% Full",
+        "11:00 AM": "82% Full",
+        "1PM / 2PM": "87% Full",
+        "4:00 PM": "68% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Fraternity Ln. North Lot",
+        "Lot Code": "500C",
+        "7:00 AM": "90% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "89% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Greek Row West Lot",
+        "Lot Code": "520",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "76% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "West Lakeshore North Lot",
+        "Lot Code": "513",
+        "7:00 AM": "67% Full",
+        "11:00 AM": "99% Full",
+        "1PM / 2PM": "71% Full",
+        "4:00 PM": "66% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "West State St. Lot",
+        "Lot Code": "218",
+        "7:00 AM": "71% Full",
+        "11:00 AM": "80% Full",
+        "1PM / 2PM": "78% Full",
+        "4:00 PM": "69% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Donahue Street Lot",
+        "Lot Code": "220",
+        "7:00 AM": "39% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "78% Full",
+        "4:00 PM": "56% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Old Band Hall (Gravel) Lot",
+        "Lot Code": "222",
+        "7:00 AM": "23% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "50% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "312 A (Gravel)",
+        "Lot Code": "312",
+        "7:00 AM": "53% Full",
+        "11:00 AM": "73% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Public Safety Lot",
+        "Lot Code": "400",
+        "7:00 AM": "19% Full",
+        "11:00 AM": "19% Full",
+        "1PM / 2PM": "21% Full",
+        "4:00 PM": "21% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Hansen's Lot",
+        "Lot Code": "420",
+        "7:00 AM": "30% Full",
+        "11:00 AM": "50% Full",
+        "1PM / 2PM": "40% Full",
+        "4:00 PM": "20% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Vet Med East Lot",
+        "Lot Code": "421",
+        "7:00 AM": "24% Full",
+        "11:00 AM": "77% Full",
+        "1PM / 2PM": "75% Full",
+        "4:00 PM": "68% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Vet Med West Lot",
+        "Lot Code": "422",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Vet Ln. Lot",
+        "Lot Code": "423",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "LADDL Lot",
+        "Lot Code": "424",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Warehouse Ln. Lot",
+        "Lot Code": "425",
+        "7:00 AM": "13% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "52% Full",
+        "4:00 PM": "20% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "University Stores B Lot",
+        "Lot Code": "430",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "52% Full",
+        "4:00 PM": "20% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "U-High North B Lot",
+        "Lot Code": "510",
+        "7:00 AM": "92% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "95% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "U-High South B Lot",
+        "Lot Code": "511",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "50% Full",
+        "1PM / 2PM": "58% Full",
+        "4:00 PM": "79% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Early Learning Center B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "77% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Nelson Memorial B Lot",
+        "Lot Code": "603",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "52% Full",
+        "1PM / 2PM": "45% Full",
+        "4:00 PM": "52% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Tiger Band Hall B Lot",
+        "Lot Code": "214 B",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "20% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "The 5 B Lot",
+        "Lot Code": "221 A",
+        "7:00 AM": "82% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "90% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Cogen Lot",
+        "Lot Code": "301 A",
+        "7:00 AM": "46% Full",
+        "11:00 AM": "76% Full",
+        "1PM / 2PM": "76% Full",
+        "4:00 PM": "61% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Electrical Engineering B Lot",
+        "Lot Code": "304 A",
+        "7:00 AM": "35% Full",
+        "11:00 AM": "88% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "76% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Facility Services Lot (Fieldhouse Dr.)",
+        "Lot Code": "304 C",
+        "7:00 AM": "70% Full",
+        "11:00 AM": "76% Full",
+        "1PM / 2PM": "65% Full",
+        "4:00 PM": "74% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Sturgis Hall B Lot (312A)",
+        "Lot Code": "312 B",
+        "7:00 AM": "15% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "25% Full",
+        "4:00 PM": "25% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "E.B. Doran Hall Lot",
+        "Lot Code": "312 D",
+        "7:00 AM": "25% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "ECE B Lot",
+        "Lot Code": "402 B",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "6% Full",
+        "1PM / 2PM": "3% Full",
+        "4:00 PM": "1% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "E.B Doran Hall (Gravel) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "25% Full",
+        "1PM / 2PM": "20% Full",
+        "4:00 PM": "20% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "South Quad B (Gravel) Lot",
+        "Lot Code": "403 A",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "25% Full",
+        "1PM / 2PM": "20% Full",
+        "4:00 PM": "20% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Engineering Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "14% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "39% Full",
+        "4:00 PM": "23% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Fieldhouse Dr. (Alaska St.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "84% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "89% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Forestry Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "46% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Hospital Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "66% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "50% Full",
+        "4:00 PM": "50% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Infirmary Rd. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "47% Full",
+        "11:00 AM": "60% Full",
+        "1PM / 2PM": "76% Full",
+        "4:00 PM": "68% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Tower Dr. B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "70% Full",
+        "11:00 AM": "75% Full",
+        "1PM / 2PM": "85% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Parade Grounds North Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "57% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Parade Grounds South Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "53% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "North Stadium Dr. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "22% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Thursday",
+        "Lot Name": "Parker Coliseum B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "92% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "West Stadium Lot",
+        "Lot Code": "101",
+        "7:00 AM": "80% Full",
+        "11:00 AM": "88% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "79% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Bernie Moore Lot",
+        "Lot Code": "104",
+        "7:00 AM": "15% Full",
+        "11:00 AM": "8% Full",
+        "1PM / 2PM": "12% Full",
+        "4:00 PM": "14% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Natatorium Lot",
+        "Lot Code": "105",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "48% Full",
+        "1PM / 2PM": "46% Full",
+        "4:00 PM": "40% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Touchdown Village West Lot",
+        "Lot Code": "314",
+        "7:00 AM": "58% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "57% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Touchdown Village East Lot",
+        "Lot Code": "315",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "98% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "West Parker Blvd. Lot",
+        "Lot Code": "316",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "15% Full",
+        "1PM / 2PM": "13% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "South Stadium East Lot",
+        "Lot Code": "401",
+        "7:00 AM": "6% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "98% Full",
+        "4:00 PM": "11% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "South Stadium West Lot",
+        "Lot Code": "401",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "98% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "South Quad Dr. West Lot",
+        "Lot Code": "403",
+        "7:00 AM": "86% Full",
+        "11:00 AM": "90% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "87% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Skip Bertman Dr. East Lot",
+        "Lot Code": "404",
+        "7:00 AM": "1% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "22% Full",
+        "4:00 PM": "7% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "East Parker Blvd. Lot",
+        "Lot Code": "604",
+        "7:00 AM": "9% Full",
+        "11:00 AM": "46% Full",
+        "1PM / 2PM": "48% Full",
+        "4:00 PM": "16% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "ECE West Lot",
+        "Lot Code": "402",
+        "7:00 AM": "7% Full",
+        "11:00 AM": "79% Full",
+        "1PM / 2PM": "83% Full",
+        "4:00 PM": "39% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "73% Full",
+        "4:00 PM": "54% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Canal Hall North Lot",
+        "Lot Code": "111",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "87% Full",
+        "1PM / 2PM": "81% Full",
+        "4:00 PM": "73% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Nicholson Gateway North Lot",
+        "Lot Code": "112",
+        "7:00 AM": "93% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "88% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Beach Volleyball Lot",
+        "Lot Code": "206",
+        "7:00 AM": "93% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "79% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Spruce Hall Lot",
+        "Lot Code": "210",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Alaska street Lot (WCA West)",
+        "Lot Code": "211",
+        "7:00 AM": "57% Full",
+        "11:00 AM": "53% Full",
+        "1PM / 2PM": "43% Full",
+        "4:00 PM": "36% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Kirby Smith Hall Lot",
+        "Lot Code": "211",
+        "7:00 AM": "97% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "North Kirby Smith Hall Lot",
+        "Lot Code": "211",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "51% Full",
+        "1PM / 2PM": "51% Full",
+        "4:00 PM": "52% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Aster Street West Lot",
+        "Lot Code": "212",
+        "7:00 AM": "4% Full",
+        "11:00 AM": "6% Full",
+        "1PM / 2PM": "6% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Aster Street East Lot",
+        "Lot Code": "213",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "8% Full",
+        "1PM / 2PM": "9% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Alaska Street East Lot (Cypress Dr. North)",
+        "Lot Code": "219",
+        "7:00 AM": "57% Full",
+        "11:00 AM": "48% Full",
+        "1PM / 2PM": "34% Full",
+        "4:00 PM": "23% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Broussard Circle Lot",
+        "Lot Code": "220",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "78% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Pentagon Lot",
+        "Lot Code": "220",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "89% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Acadian Lot",
+        "Lot Code": "506",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Blake Hall Lot",
+        "Lot Code": "507",
+        "7:00 AM": "98% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "82% Full",
+        "4:00 PM": "69% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Campus Lake Gravel Lot",
+        "Lot Code": "508",
+        "7:00 AM": "91% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "96% Full",
+        "4:00 PM": "89% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Herget Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "72% Full",
+        "4:00 PM": "58% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Miller Hall Lot",
+        "Lot Code": "508",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "72% Full",
+        "4:00 PM": "58% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Hill Farm Student Lot",
+        "Lot Code": "515",
+        "7:00 AM": "87% Full",
+        "11:00 AM": "68% Full",
+        "1PM / 2PM": "63% Full",
+        "4:00 PM": "55% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Student Rec West Lot",
+        "Lot Code": "517",
+        "7:00 AM": "81% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Parker Coliseum Lot",
+        "Lot Code": "600",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "93% Full",
+        "1PM / 2PM": "73% Full",
+        "4:00 PM": "54% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "South Stadium Dr. East Lot",
+        "Lot Code": "601",
+        "7:00 AM": "10% Full",
+        "11:00 AM": "52% Full",
+        "1PM / 2PM": "10% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Nicholson Gateway Garage (Level 1)",
+        "Lot Code": "701",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "67% Full",
+        "4:00 PM": "69% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Nicholson Gateway Garage (Level 2)",
+        "Lot Code": "701",
+        "7:00 AM": "69% Full",
+        "11:00 AM": "60% Full",
+        "1PM / 2PM": "45% Full",
+        "4:00 PM": "26% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Nicholson Gateway Garage (Level 3)",
+        "Lot Code": "701",
+        "7:00 AM": "24% Full",
+        "11:00 AM": "25% Full",
+        "1PM / 2PM": "22% Full",
+        "4:00 PM": "9% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Nicholson Gateway Garage (Level 4)",
+        "Lot Code": "701",
+        "7:00 AM": "5% Full",
+        "11:00 AM": "2% Full",
+        "1PM / 2PM": "2% Full",
+        "4:00 PM": "4% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Nicholson Gateway Garage (Level 5)",
+        "Lot Code": "701",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "1% Full",
+        "1PM / 2PM": "0% Full",
+        "4:00 PM": "0% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "East Campus Apartments (East Lot)",
+        "Lot Code": "504 A",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "54% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "East Campus Apartments (West Lot)",
+        "Lot Code": "504 B",
+        "7:00 AM": "96% Full",
+        "11:00 AM": "95% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "54% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Corporate Canal South Lot",
+        "Lot Code": "518 B",
+        "7:00 AM": "91% Full",
+        "11:00 AM": "74% Full",
+        "1PM / 2PM": "81% Full",
+        "4:00 PM": "55% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Campus Lake - South Campus Lot (McVoy Hall)",
+        "Lot Code": "Street",
+        "7:00 AM": "39% Full",
+        "11:00 AM": "56% Full",
+        "1PM / 2PM": "11% Full",
+        "4:00 PM": "0% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "South Campus Street (Bridge) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "92% Full",
+        "11:00 AM": "87% Full",
+        "1PM / 2PM": "80% Full",
+        "4:00 PM": "75% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+        "Lot Code": "Street",
+        "7:00 AM": "47% Full",
+        "11:00 AM": "86% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "75% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Fraternity Circle Lot",
+        "Lot Code": "501",
+        "7:00 AM": "69% Full",
+        "11:00 AM": "84% Full",
+        "1PM / 2PM": "78% Full",
+        "4:00 PM": "80% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Greek Row Central Lot",
+        "Lot Code": "521",
+        "7:00 AM": "22% Full",
+        "11:00 AM": "27% Full",
+        "1PM / 2PM": "21% Full",
+        "4:00 PM": "12% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Greek Row South Lot",
+        "Lot Code": "523",
+        "7:00 AM": "86% Full",
+        "11:00 AM": "89% Full",
+        "1PM / 2PM": "42% Full",
+        "4:00 PM": "2% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Greek Row North Lot",
+        "Lot Code": "524",
+        "7:00 AM": "0% Full",
+        "11:00 AM": "0% Full",
+        "1PM / 2PM": "0% Full",
+        "4:00 PM": "0% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Fraternity Ln. Lot (Street)",
+        "Lot Code": "500A",
+        "7:00 AM": "40% Full",
+        "11:00 AM": "68% Full",
+        "1PM / 2PM": "36% Full",
+        "4:00 PM": "44% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Fraternity Ln. Lot",
+        "Lot Code": "500B",
+        "7:00 AM": "60% Full",
+        "11:00 AM": "74% Full",
+        "1PM / 2PM": "64% Full",
+        "4:00 PM": "68% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Fraternity Ln. East Lot (Gravel)",
+        "Lot Code": "500B",
+        "7:00 AM": "66% Full",
+        "11:00 AM": "71% Full",
+        "1PM / 2PM": "78% Full",
+        "4:00 PM": "90% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Fraternity Ln. North Lot",
+        "Lot Code": "500C",
+        "7:00 AM": "94% Full",
+        "11:00 AM": "96% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Greek Row West Lot",
+        "Lot Code": "520",
+        "7:00 AM": "67% Full",
+        "11:00 AM": "71% Full",
+        "1PM / 2PM": "52% Full",
+        "4:00 PM": "44% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "West Lakeshore North Lot",
+        "Lot Code": "513",
+        "7:00 AM": "76% Full",
+        "11:00 AM": "75% Full",
+        "1PM / 2PM": "62% Full",
+        "4:00 PM": "41% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "West State St. Lot",
+        "Lot Code": "218",
+        "7:00 AM": "75% Full",
+        "11:00 AM": "78% Full",
+        "1PM / 2PM": "85% Full",
+        "4:00 PM": "71% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Donahue Street Lot",
+        "Lot Code": "220",
+        "7:00 AM": "39% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "67% Full",
+        "4:00 PM": "39% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Old Band Hall (Gravel) Lot",
+        "Lot Code": "222",
+        "7:00 AM": "35% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "73% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "312 A (Gravel)",
+        "Lot Code": "312",
+        "7:00 AM": "90% Full",
+        "11:00 AM": "83% Full",
+        "1PM / 2PM": "77% Full",
+        "4:00 PM": "70% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Public Safety Lot",
+        "Lot Code": "400",
+        "7:00 AM": "19% Full",
+        "11:00 AM": "19% Full",
+        "1PM / 2PM": "21% Full",
+        "4:00 PM": "21% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Hansen's Lot",
+        "Lot Code": "420",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "20% Full",
+        "1PM / 2PM": "10% Full",
+        "4:00 PM": "10% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Vet Med East Lot",
+        "Lot Code": "421",
+        "7:00 AM": "19% Full",
+        "11:00 AM": "70% Full",
+        "1PM / 2PM": "70% Full",
+        "4:00 PM": "62% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Vet Med West Lot",
+        "Lot Code": "422",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Vet Ln. Lot",
+        "Lot Code": "423",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "LADDL Lot",
+        "Lot Code": "424",
+        "7:00 AM": "No Data",
+        "11:00 AM": "No Data",
+        "1PM / 2PM": "No Data",
+        "4:00 PM": "No Data"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Warehouse Ln. Lot",
+        "Lot Code": "425",
+        "7:00 AM": "13% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "45% Full",
+        "4:00 PM": "30% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "University Stores B Lot",
+        "Lot Code": "430",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "30% Full",
+        "1PM / 2PM": "45% Full",
+        "4:00 PM": "30% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "U-High North B Lot",
+        "Lot Code": "510",
+        "7:00 AM": "92% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "94% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "U-High South B Lot",
+        "Lot Code": "511",
+        "7:00 AM": "25% Full",
+        "11:00 AM": "46% Full",
+        "1PM / 2PM": "67% Full",
+        "4:00 PM": "50% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Early Learning Center B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "54% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "77% Full",
+        "4:00 PM": "86% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Nelson Memorial B Lot",
+        "Lot Code": "603",
+        "7:00 AM": "31% Full",
+        "11:00 AM": "52% Full",
+        "1PM / 2PM": "58% Full",
+        "4:00 PM": "44% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Tiger Band Hall B Lot",
+        "Lot Code": "214 B",
+        "7:00 AM": "17% Full",
+        "11:00 AM": "0% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "83% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "The 5 B Lot",
+        "Lot Code": "221 A",
+        "7:00 AM": "82% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "97% Full",
+        "4:00 PM": "90% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Cogen Lot",
+        "Lot Code": "301 A",
+        "7:00 AM": "80% Full",
+        "11:00 AM": "62% Full",
+        "1PM / 2PM": "69% Full",
+        "4:00 PM": "65% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Electrical Engineering B Lot",
+        "Lot Code": "304 A",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "88% Full",
+        "1PM / 2PM": "84% Full",
+        "4:00 PM": "63% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Facility Services Lot (Fieldhouse Dr.)",
+        "Lot Code": "304 C",
+        "7:00 AM": "100% Full",
+        "11:00 AM": "91% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "92% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Sturgis Hall B Lot (312A)",
+        "Lot Code": "312 B",
+        "7:00 AM": "99% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "99% Full",
+        "4:00 PM": "97% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "E.B. Doran Hall Lot",
+        "Lot Code": "312 D",
+        "7:00 AM": "32% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "ECE B Lot",
+        "Lot Code": "402 B",
+        "7:00 AM": "3% Full",
+        "11:00 AM": "8% Full",
+        "1PM / 2PM": "7% Full",
+        "4:00 PM": "5% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "E.B Doran Hall (Gravel) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "80% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "75% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "South Quad B (Gravel) Lot",
+        "Lot Code": "403 A",
+        "7:00 AM": "16% Full",
+        "11:00 AM": "78% Full",
+        "1PM / 2PM": "95% Full",
+        "4:00 PM": "33% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Engineering Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "14% Full",
+        "11:00 AM": "28% Full",
+        "1PM / 2PM": "39% Full",
+        "4:00 PM": "23% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Fieldhouse Dr. (Alaska St.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "84% Full",
+        "11:00 AM": "94% Full",
+        "1PM / 2PM": "89% Full",
+        "4:00 PM": "89% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "95% Full",
+        "11:00 AM": "97% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Forestry Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "46% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Hospital Ln. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "66% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "50% Full",
+        "4:00 PM": "50% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Infirmary Rd. Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "47% Full",
+        "11:00 AM": "60% Full",
+        "1PM / 2PM": "76% Full",
+        "4:00 PM": "68% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Tower Dr. B Lot",
+        "Lot Code": "On Street",
+        "7:00 AM": "70% Full",
+        "11:00 AM": "75% Full",
+        "1PM / 2PM": "85% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Parade Grounds North Lot",
+        "Lot Code": "On street",
+        "7:00 AM": "57% Full",
+        "11:00 AM": "80% Full",
+        "1PM / 2PM": "90% Full",
+        "4:00 PM": "85% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Parade Grounds South Lot",
+        "Lot Code": "On street",
+        "7:00 AM": "53% Full",
+        "11:00 AM": "100% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "100% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "North Stadium Dr. Lot",
+        "Lot Code": "On street",
+        "7:00 AM": "22% Full",
+        "11:00 AM": "85% Full",
+        "1PM / 2PM": "93% Full",
+        "4:00 PM": "93% Full"
+    },
+    {
+        "Weekday": "Friday",
+        "Lot Name": "Parker Coliseum B Lot",
+        "Lot Code": "On street",
+        "7:00 AM": "20% Full",
+        "11:00 AM": "92% Full",
+        "1PM / 2PM": "100% Full",
+        "4:00 PM": "92% Full"
+    }
+]

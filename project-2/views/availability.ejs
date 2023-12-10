@@ -1,0 +1,102 @@
+<!-- EJS template for the availability page -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/styles.css">
+  <title>Availability</title>
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+      <a class="navbar-brand" href="/"> Final Project </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/admin">Admin </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/availability">Availability <span class="sr-only">(current)</span></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+<!-- Form for filtering parking lots -->
+<div class="container mt-3">
+  <form action="/availability/search" method="post">
+    <div class="form-group">
+      <label for="lotName">Select Parking Lot:</label>
+      <select id="lotName" name="lotName" class="form-control">
+        <% lots.forEach(lot => { %>
+          <option value="<%= lot %>"><%= lot %></option>
+        <% }); %>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="weekday">Select Day of Week:</label>
+      <select id="weekday" name="day" class="form-control">
+        <% days.forEach(day => { %>
+          <option value="<%= day %>"><%= day %></option>
+        <% }); %>
+      </select>
+    </div>
+    <button type="submit" class="button">Search Lots</button>
+  </form>
+</div>
+
+<!-- Display parking lot data in a table if available -->
+<div class="container mt-3">
+  <% if (parkingLots && parkingLots.length > 0) { %>
+    <h2>Parking Lot Availability</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Weekday</th>
+          <th>Lot Name</th>
+          <th>Lot Code</th>
+          <th>7:00 AM</th>
+          <th>11:00 AM</th>
+          <th>1PM / 2PM</th>
+          <th>4:00 PM</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% parkingLots.forEach(parkingLot => { %>
+          <tr>
+            <td><%= parkingLot['Weekday'] %></td>
+            <td><%= parkingLot['Lot Name'] %></td>
+            <td><%= parkingLot['Lot Code'] %></td>
+            <td><%= parkingLot['7:00 AM'] %></td>
+            <td><%= parkingLot['11:00 AM'] %></td>
+            <td><%= parkingLot['1PM / 2PM'] %></td>
+            <td><%= parkingLot['4:00 PM'] %></td>
+          </tr>
+        <% }); %>
+      </tbody>
+    </table>
+  <% } else if (selectedDay && selectedLot) { %>
+    <p>No data available for <%= selectedLot %> on <%= selectedDay %>.</p>
+  <% } %>
+</div>
+
+  <!-- script tags -->
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+</body>
+</html>

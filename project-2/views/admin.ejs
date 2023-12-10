@@ -1,0 +1,122 @@
+<!-- EJS template for the admin page -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/styles.css">
+
+  <title>Admin</title>
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+      <a class="navbar-brand" href="/"> Final Project </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/admin">Admin <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/availability">Availability</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <div class="container mt-3">
+    <h1 class="mb-3">Admin Page</h1>
+
+    
+<!-- Form to add a new parking lot -->
+<div class="card mb-3">
+  <div class="card-body">
+    <form action="/admin/manage" method="post">
+
+      <!-- Lot Name -->
+      <label for="lotName">Lot Name:</label>
+      <input type="text" id="lotName" name="lotName" required>
+
+      <!-- Lot Code -->
+      <label for="lotCode">Lot Code:</label>
+      <input type="text" id="lotCode" name="lotCode" required>
+
+      <!-- Weekday -->
+      <label for="Weekday">Day of Week:</label>
+      <select id="Weekday" name="Weekday" required>
+        <option value="Monday">Monday</option>
+        <option value="Tuesday">Tuesday</option>
+        <option value="Wednesday">Wednesday</option>
+        <option value="Thursday">Thursday</option>
+        <option value="Friday">Friday</option>
+      </select>
+
+      <!-- Percent Full for each fixed time slot -->
+      <label for="am7">7:00 AM:</label>
+      <input type="text" id="am7" name="am7">
+
+      <label for="am11">11:00 AM: </label>
+      <input type="text" id="am11" name="am11">
+
+      <label for="pm1">1 PM / 2 PM:</label>
+      <input type="text" id="pm1" name="pm1">
+
+      <label for="pm4">4:00 PM:</label>
+      <input type="text" id="pm4" name="pm4">
+
+      <!-- Submit Button -->
+      <button type="submit" class="button">Add Parking Lot</button>
+    </form>
+  </div>
+</div>
+
+<!-- Form to delete a parking lot -->
+<div class="card mb-3">
+  <div class="card-body">
+    <form action="/admin/delete" method="post">
+      <label for="lotNameToDelete">Parking Lot Name to Delete:</label>
+      <input type="text" id="lotNameToDelete" name="lotName" required>
+      
+      <label for="lotDayToDelete">Parking Lot Day to Delete:</label>
+      <select id="Weekday" name="Weekday" required>
+        <option value="Monday">Monday</option>
+        <option value="Tuesday">Tuesday</option>
+        <option value="Wednesday">Wednesday</option>
+        <option value="Thursday">Thursday</option>
+        <option value="Friday">Friday</option>
+      </select>
+
+      <label for="lotCodeToDelete">Parking Lot Code to Delete:</label>
+      <input type="text" id="lotCodeToDelete" name="lotCode" required>
+      <button type="submit" class="button">Delete Parking Lot</button>
+    </form>
+    <ul>
+      <% parkingLots.forEach(parkingLot => { %>
+        <li>
+          <strong><%= parkingLot['Lot Name'] %></strong> - <%= parkingLot['Lot Code']%>
+        </li>
+      <% }); %>
+    </ul>
+  </div>
+  </div>
+  </div>
+  
+  <!-- script tags -->
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>

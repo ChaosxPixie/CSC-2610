@@ -1,0 +1,124 @@
+/* Reset some default styles */
+body, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Sets background for body of all pages */
+body {
+  background: url("/images/tiger-stadium.png") no-repeat center fixed;
+  background-size: cover;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Center the forms horizontally */
+.card {
+  margin: 0 auto;
+  border-width: 2px;
+  border-color: #630986;
+}
+
+/* Style the input fields within the forms */
+.card input {
+  width: 100%;
+  margin-bottom: 10px;
+  border-width: 2px;
+  border-color: #630986;
+}
+
+/* Style the submit buttons */
+.card button {
+  width: 100%;
+}
+
+/* Container styling for forms*/
+.container {
+  max-width: 450px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* Navigation bar styling */
+.navbar {
+  background-color:#630986;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: #ffff;
+}
+
+img {
+  border: 4px solid #630986;
+  position:relative;
+  height: 350px;
+  width: auto;
+  margin-bottom: 5px;
+}
+
+/* Add some spacing to the top of the pages */
+.mt-5 {
+  margin-top: 3rem;
+}
+
+/* Add some padding to form elements */
+form {
+  margin-top: 1rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  box-sizing: border-box;
+  margin-bottom: 1rem;
+}
+
+.button {
+  background-color: #ffdd00;
+  color:#630986;
+  padding: 0.5rem 1rem;
+  border-color: #630986;
+  border-width: 3px;
+  cursor: pointer;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+
+
+th {
+  background-color: #630986;
+  color: #fff;
+  border: 2px solid #ffdd00;
+  padding: 0.75rem;
+  text-align: center;
+  width: auto;
+}
+
+td {
+  background-color: #ffdd00;
+  border: 2px solid #630986;
+  padding: 0.75rem;
+  text-align: center;
+  width: fit-content;
+}
+
+/* Responsive navigation bar */
+@media (max-width: 768px) {
+  .navbar-nav {
+    flex-direction: column;
+  }
+
+  .navbar-nav .nav-item {
+    margin-bottom: 0.5rem;
+  }
+}
